@@ -1,11 +1,8 @@
-export default function footer() {
-    return(
+export default function Footer() {
+    return (
         <footer>
-             <small>@ 20xx Okode development. All the rights reserved</small>
-             
-             </footer>
-        
-    
-
+            <small>@ 20xx Okode development. All rights reserved</small>
+        </footer>
     );
 }
+
