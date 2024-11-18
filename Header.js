@@ -1,4 +1,6 @@
-export default function Header() {
+import React from "react";
+
+export default function Head() {
     return (
         <header>
             <nav className="nav">
